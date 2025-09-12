@@ -4,6 +4,7 @@
 ## Roll No. : ME22B176
 ## Date of Submission: 12/09/2025
 
+---
 
 ### Overview
 his assignment addresses the challenge of class imbalance in the Credit Card Fraud Detection dataset using resampling techniques.
@@ -16,6 +17,11 @@ The objective is to improve the performance of a Logistic Regression classifier 
 3. Clustering-Based Oversampling (CBO)
 
 4. Clustering-Based Undersampling (CBU)
+
+---
+
+### File Structure
+The file ME22B176_Assignment3.ipynb contains all the code and imports dataset via kagglehub and imports/installs all the necessary libraries.
 
 ---
 
